@@ -1,8 +1,5 @@
-# qa-upskilling
+# Java
 
 ## Goals
 
 - Learn Java
-- Learn Selenium
-- Learn TestNG
-- Learn API Testing
